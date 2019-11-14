@@ -1,0 +1,23 @@
+kata 1
+
+const invert =array=>{
+   return array.map(x=>x*-1 );
+}
+
+kata 2
+
+
+const countSheeps =arrayOfSheep=>{
+  arrayOfSheep=arrayOfSheep.filter(arrayOfSheep => arrayOfSheep===true);
+  return arrayOfSheep.length;
+}
+
+countSheeps(array1)
+
+kata 3
+
+const clean =arr=>{
+return arr.filter(arr => arr=true);
+}
+
+
